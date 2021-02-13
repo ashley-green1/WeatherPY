@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 Vacation_Search/config.py
 Weather_Database/config.py
+Weather_Database/Vacation_Search/config.py

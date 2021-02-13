@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Vacation_Search/config.py
+Weather_Database/config.py

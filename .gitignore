@@ -130,3 +130,4 @@ dmypy.json
 Vacation_Search/config.py
 Weather_Database/config.py
 Weather_Database/Vacation_Search/config.py
+Vacation_Itinerary/config.py
